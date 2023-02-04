@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(#ffff , #eadaff , #d48afc);
+    background-repeat: no-repeat;
+    padding-bottom: 25px;
+}
+
+h1 {
+    color: #31014b;
+}
+
+video {
+    padding: 5px;
+}
